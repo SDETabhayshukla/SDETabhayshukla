@@ -1,80 +1,97 @@
-# Abhay Shukla 🚀
 
-**Automation Tester | Selenium | Java**
+# Abhay Shukla 👨‍💻
 
----
+**QA Automation Test Engineer**
 
-## About Me 👨‍💻
-
-I am an experienced Automation Tester with a strong background in Selenium and Java. I have a proven track record of developing and executing automated test scripts, frameworks, and solutions to ensure high-quality software delivery. My expertise includes working with various testing tools and frameworks such as TestNG, Maven, Jenkins, and BDD-Cucumber. I am passionate about continuous learning and staying updated with the latest trends in automation testing.
+📧 sdetabhay@gmail.com  
+📞 +91-8957592278  
 
 ---
 
-## Skills 🛠️
+## 🔍 **Profile Summary**
 
-- **Automation Tools:** ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium) ![Appium](https://img.shields.io/badge/-Appium-47B2E4?logo=appium) ![RestAssured](https://img.shields.io/badge/-RestAssured-2B2D42)
-- **Programming Languages:** ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-- **Build Tools:** ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven)
-- **CI/CD:** ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins)
-- **Test Management:** ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira) ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello)
-- **Frameworks:** ![TestNG](https://img.shields.io/badge/-TestNG-FF5733) ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?logo=cucumber) ![POM](https://img.shields.io/badge/-POM-FF9F1C)
-- **Libraries:** ![Apache POI](https://img.shields.io/badge/-Apache_POI-EC2025)
-- **Version Control:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+Results-driven QA Automation Test Engineer with 4 years of experience in automation testing, specializing in Java, Selenium, TestNG, Cucumber, and Rest Assured. Proven track record in developing robust testing frameworks and enhancing test coverage, ensuring the reliability and performance of complex systems. Adept at collaborating with cross-functional teams to deliver high-quality software solutions.
 
 ---
 
-## Professional Experience 💼
+## 💼 **Professional Experience**
 
-### RestoLabs
-**Role:** Automation Tester
+### RestoLabs (March 2023 - Present)
+**Role: QA Automation Test Engineer**
 
-- Developed and maintained automated test scripts using Selenium and Java.
-- Implemented TestNG for test execution and reporting.
-- Collaborated with development and QA teams to ensure thorough test coverage.
-- Conducted performance and regression testing to ensure software quality.
+- 📄 Developed and maintained automation frameworks using Java, Selenium, TestNG, Cucumber, and Rest Assured.
+- 🔄 Integrated automation scripts with Maven and Jenkins for CI/CD.
+- 📝 Managed test cases and defects using Jira and Trello.
+- 🤝 Collaborated with development teams using Azure DevOps and GitHub.
+- 📐 Implemented Page Object Model and Gherkins for robust and scalable test automation.
+- 🛠️ Utilized IntelliJ IDEA and Eclipse for efficient code development and debugging.
+- 📊 Enhanced testing processes and provided thorough documentation and reporting.
+- 🚀 Conducted performance testing to ensure system scalability and reliability.
+- 🔧 Automated regression test suites to ensure stability of software releases.
 
-### Apisero (Acquired by NTT Data)
-**Role:** Automation Engineer
+### Apisero (Acquired by NTT Data) (August 2020 - February 2023)
+**Role: QA Automation Test Engineer**
 
-- Designed and implemented test automation frameworks for various projects.
-- Utilized Jenkins for CI/CD pipeline integration and automated test execution.
-- Created detailed test plans, test cases, and test data for comprehensive testing.
-- Worked on API testing using RestAssured and integrated it with automation frameworks.
-
----
-
-## Education 🎓
-
-- **B.Tech in Computer Science**, G.L.A University (2014-2018)
-- **Intermediate**, Dr. Virendra Swarup Education Center (2014)
-- **High School**, Dr. Virendra Swarup Education Center (2012)
-
----
-
-## Projects 📂
-
-### Selenium Automation Framework
-- Developed a robust and scalable test automation framework using Selenium WebDriver, Java, and TestNG.
-- Implemented Page Object Model (POM) design pattern for maintainability and reusability.
-- Integrated with Jenkins for continuous integration and execution.
-
-### API Testing with RestAssured
-- Created automated test scripts for RESTful APIs using RestAssured and Java.
-- Developed a reusable framework to validate API responses, status codes, and payloads.
-- Integrated API tests with CI/CD pipeline for automated testing.
-
-### BDD-Cucumber Framework
-- Built a BDD framework using Cucumber and Java to enable behavior-driven development.
-- Wrote feature files, step definitions, and test runners to support BDD approach.
-- Collaborated with stakeholders to define acceptance criteria and ensure test coverage.
+- 📄 Conducted automated testing using Java, Selenium, TestNG, Cucumber, and Rest Assured.
+- 🔨 Developed and maintained automation frameworks from scratch.
+- 🔄 Leveraged Maven for build automation and Jenkins for continuous integration.
+- 📝 Utilized Jira for bug tracking, project management, and Agile workflows.
+- 🤝 Collaborated with cross-functional teams through Azure DevOps and GitHub for version control and continuous integration.
+- 🧪 Designed and executed comprehensive test plans and test cases based on product requirements.
+- 📐 Applied Page Object Model and Gherkins to enhance test automation scripts.
+- 🔍 Conducted code reviews and maintained high code quality standards.
+- 🛠️ Coordinated with development and product management teams to resolve issues and ensure timely delivery of projects.
+- 🚀 Conducted performance testing and load testing to ensure system reliability and scalability.
+- 🔧 Implemented end-to-end testing strategies to ensure comprehensive test coverage.
+- 🗂️ Facilitated Agile ceremonies and collaborated closely with stakeholders to ensure alignment on project goals.
 
 ---
 
-## Connect with Me 🌐
+## 🛠️ **Technical Skills**
 
-- **LinkedIn:** [Abhay Shukla](https://www.linkedin.com/in/abhay-shukla/)
-- **Email:** sdetabhay@gmail.com
+- **Programming Languages:** Java
+- **Testing Frameworks:** Selenium, TestNG, Cucumber, Rest Assured
+- **Build Tools:** Maven
+- **CI/CD Tools:** Jenkins, Azure DevOps
+- **Version Control:** Git, GitHub
+- **IDEs:** IntelliJ IDEA, Eclipse
+- **Project Management:** Jira, Trello
+- **Collaboration Tools:** Miro, Figma
+- **Testing Approaches:** Page Object Model, Gherkins
+- **Performance Testing:** Load Testing, Stress Testing
+- **Automation Strategies:** Cross-browser Testing, Mobile Testing (Appium), API Testing (RestAssured)
+- **Automation Techniques:** Keyword-driven Testing, Data-driven Testing (DDT), Behavior-driven Development (BDD)
+- **Continuous Testing:** Automated Regression Testing, Smoke Testing, Sanity Testing
+- **Quality Assurance:** Test Planning, Test Case Design, Defect Tracking
+- **DevOps Practices:** Continuous Integration (CI), Continuous Deployment (CD), Docker
 
 ---
 
-Feel free to explore my repositories to see my work and contributions. Let's connect and collaborate!
+## 🚀 **Projects**
+
+### FMS (Field Management System)
+- 🛠️ Built the testing framework from scratch to ensure the system’s functionality, reliability, and performance.
+- 📊 Improved test coverage and reduced manual testing efforts significantly.
+
+### yrefy
+- 🛠️ Built the testing framework from scratch to validate the platform’s complex financial algorithms, user interface, and integration with external financial services.
+- 📊 Achieved high test coverage, ensuring the platform’s functionality and performance.
+
+### Black, Gould Associates
+- 🛠️ Built the testing framework from scratch to ensure the reliability and accuracy of their insurance brokerage platform.
+- 📊 Developed automated tests to verify the integrity of insurance data processing and policy management.
+- 📊 Enhanced test coverage to ensure comprehensive validation of user interfaces, business logic, and data integrity.
+
+---
+
+## 🎓 **Education**
+
+- **B.Tech, G.L.A University** (2014 - 2018)
+- **Intermediate, Dr. Virendra Swarup Education Center** (2014)
+- **High School, Dr. Virendra Swarup Education Center** (2012)
+
+---
+
+Feel free to reach out for collaboration or inquiries!
+
+---
