@@ -4,7 +4,6 @@
 **QA Automation Test Engineer**
 
 📧 sdetabhay@gmail.com  
-📞 +91-8957592278  
 
 ---
 
