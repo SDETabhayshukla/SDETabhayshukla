@@ -12,8 +12,8 @@ public class HackerRank_Day_1 {
         //Method 1 : Using for Loop
         int n=3;
         for(int i=0; i<n;i++){
-            int nums = scn.nextInt();
-            System.out.println(nums);
+            int num = scn.nextInt();
+            System.out.println(num);
         }
 
         //Method 2 : Using While loop
