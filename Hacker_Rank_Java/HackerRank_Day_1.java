@@ -16,7 +16,7 @@ public class HackerRank_Day_1 {
             System.out.println(number);
         }
 
-        //Method 2 : Using While Loop
+        //Method 2 : Using While loop
         // while(scn.hasNextInt()){
         //     int num = scn.nextInt();
         //     System.out.println(num);
